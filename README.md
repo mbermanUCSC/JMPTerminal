@@ -1,12 +1,8 @@
 # JMP Terminal
 
-Welcome to "JMP Terminal" an terminal-based puzzle game for CMPM 179
+Welcome to "JMP Terminal" an terminal-based puzzle game for CMPM 179.
 
-Made By:
-Jackson Nadler-Block
-Pallavi Rajeev
-Miles Berman
-(Group 8)
+Made By: Jackson Nadler-Block, Pallavi Rajeev, and Miles Berman (Group 8)
 
 ## How To Play
 
