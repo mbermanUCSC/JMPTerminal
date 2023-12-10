@@ -29,4 +29,5 @@ Follow these steps to play the game using Python:
    Find and open the dist folder within the repository.
 
 2. **Run the Executable**
+   
    Double-click the file to start the game. No additional installations are required.
